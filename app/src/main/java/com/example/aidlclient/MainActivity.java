@@ -12,7 +12,7 @@ import android.view.View;
 import android.widget.Button;
 
 import com.example.aidlservice.aidl.IStudent;
-import com.example.aidlservice.aidl.StudtInfo;
+import com.example.aidlservice.aidl.student.StudtInfo;
 
 public class MainActivity extends AppCompatActivity {
 

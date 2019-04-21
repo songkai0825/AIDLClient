@@ -1,4 +1,4 @@
-package com.example.aidlservice.aidl;
+package com.example.aidlservice.aidl.student;
 
 import android.os.Parcel;
 import android.os.Parcelable;
